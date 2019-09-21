@@ -1,5 +1,6 @@
-<header>Hello World!</header>
-
+<?php 
+include "header.php";
+?>
 <nav>
 <a href="/html/">HTML</a> |
         <a href="/css/">CSS</a> |
@@ -22,8 +23,6 @@
 
           </main>
 
-          <footer>
-                <p>Posted by: Hege Refsnes</p>
-                <p>Contact information: <a href="mailto:someone@example.com">
-                someone@example.com</a>.</p>
-              </footer>
+             <?php 
+include "footer.php";
+?>

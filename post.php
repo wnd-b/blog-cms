@@ -1,10 +1,13 @@
-<header>Hello World!</header>
+<?php 
+include "header.php";
+?>
 
 <nav>
 <a href="/html/">HTML</a> |
         <a href="/css/">CSS</a> |
         <a href="/blog-cms/post.php">POST</a> |
         <a href="/blog-cms/post-submission.php">POST-Submission</a> |
+        
       </nav>
 
       <main>
@@ -21,8 +24,6 @@
             <li>li tag</li>
           </main>
 
-          <footer>
-                <p>Posted by: Hege Refsnes</p>
-                <p>Contact information: <a href="mailto:someone@example.com">
-                someone@example.com</a>.</p>
-              </footer>
+          <?php 
+include "footer.php";
+?>
