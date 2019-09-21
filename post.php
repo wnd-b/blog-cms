@@ -24,6 +24,7 @@ include "header.php";
             <li>li tag</li>
           </main>
 
+          
           <?php 
 include "footer.php";
 ?>
