@@ -12,7 +12,7 @@ include "header.php";
       </nav>
 
       <main>
-            <h1><main></main></h1>
+            <h1><main>Wendy's Blog</main></h1>
             
               <p>Google Chrome is a free, released in 2008.</p>
             </article>

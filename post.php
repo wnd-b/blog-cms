@@ -11,7 +11,7 @@ include "header.php";
       </nav>
 
       <main>
-            <h1><main>Blog</main></h1>
+            <h1><main>Blog Post</main></h1>
             
             <div style="background-color:lightblue">
                     <h3>First post</h3>
@@ -24,7 +24,7 @@ include "header.php";
             <li>li tag</li>
           </main>
 
-          
+
           <?php 
 include "footer.php";
 ?>
