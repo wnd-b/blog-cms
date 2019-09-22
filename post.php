@@ -2,13 +2,9 @@
 include "header.php";
 ?>
 
-<nav>
-<a href="/html/">HTML</a> |
-        <a href="/css/">CSS</a> |
-        <a href="/blog-cms/post.php">POST</a> |
-        <a href="/blog-cms/post-submission.php">POST-Submission</a> |
-        
-      </nav>
+<?php
+include "nav.php" 
+?>
 
       <main>
             <h1><main>Blog Post</main></h1>
